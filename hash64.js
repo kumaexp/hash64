@@ -1,4 +1,4 @@
-var passwords = ['aresgoblog', 'bacotedgar', 'dimasmemek', 'aldokentot', 'wandanjing'];
+var passwords = ['aresgoblog', 'bacotedgar', 'dimasmemek', 'aldokentot', 'wandanjing', 'dapijembot', 'anapantek', 'alekpedopil'];
 var indexOld;
 var index = Math.floor((Math.random() * passwords.length));
 var password = passwords[index];
